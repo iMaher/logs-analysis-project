@@ -13,7 +13,7 @@ You need to install the following applications
 * Install [VirtualBox](https://www.virtualbox.org/)
 * Install [Postgresql](https://www.postgresql.org/download/)
 * Clone [FSND VM](https://github.com/udacity/fullstack-nanodegree-vm)
-* Download the database file in the attachment
+* Download the database file [newsdata](https://github.com/iMaher/logs-analysis-project/blob/master/newsdata.zip)
 * Add this project inside vagrant folder
 * Open Terminal
 * Run vagrant 'vagrant up'
